@@ -1,0 +1,29 @@
+*{ 
+    margin: 0; 
+    padding: 0;  
+    box-sizing: border-box;
+} 
+html,body{ 
+    height: 100%; 
+    width: 100%;
+} 
+#main{ 
+    height: 100%; 
+    width: 100%; 
+    background-color: blue;
+} 
+#part1{ 
+    height:100%; 
+    width:12%; 
+    background-color: blueviolet;
+} 
+#part2{ 
+    height:100%; 
+    width:12%; 
+    background-color: rgba(43, 132, 171, 0.4);
+} 
+#part3{ 
+    height:100%; 
+    width:8%; 
+    background-color: blueviolet;
+}  
